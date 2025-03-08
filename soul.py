@@ -229,7 +229,7 @@ def handle_soul(message):
         else:
             response = "✅A͢v͢a͢i͢l͢a͢b͢l͢e͢ r͢i͢g͢h͢t͢ n͢o͢w͢✅ :- /soul <king> <soulking> <time>"  
     else:
-        response = " ミ🥹★ 𝘈𝘤𝘤𝘦𝘴𝘴 𝘭𝘦 𝘭𝘦 𝘣𝘳𝘰 ★🥹彡DM - @VIPMODSXADMIN ."
+        response = " ミ🥹★ 𝘈𝘤𝘤𝘦𝘴𝘴 𝘭𝘦 𝘭𝘦 𝘣𝘳𝘰 ★🥹彡DM - @DONNEHHH ."
 
     bot.reply_to(message, response)
 
